@@ -1,4 +1,4 @@
-# Một hệ thống học khá tối giản
+# Không mục tiêu một hệ thống
 
 Trước hết, ta cần làm rõ về định nghĩa "Học" trong hệ thống mà mình muốn hướng đến xây dựng.
 

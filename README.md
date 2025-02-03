@@ -1,5 +1,9 @@
 # Không mục tiêu một hệ thống
 
+_Quyển sách này sẽ là tổng hợp của nhiều những hướng dẫn nhỏ lẻ_
+
+> Hướng dẫn này sẽ chỉ tập trung sắp xếp và bổ sung lại từ rất nhiều hướng dẫn học khác.
+
 Trước hết, ta cần làm rõ về định nghĩa "Học" trong hệ thống mà mình muốn hướng đến xây dựng.
 
 "Học" ở đây không nên được hiểu chỉ là việc học ở trường. Việc "học" ở đây là sự khái quát quá cho việc phát triển bản thân thông qua việc lĩnh hội những kiến thức mới và ôn tập lại những kiến thức cũ đã học. 
@@ -10,71 +14,40 @@ Hướng dẫn này được viết để dành cho tất cả mọi người đ
 
 Đầu tiên thì, nền tảng của hệ thống này được xây dựng dựa trên ý tưởng của James Clear: [Create Systems, not Goals](https://jamesclear.com/goals-systems)
 
-## Dàn ý
+## Mục tiêu và hệ thống
 
-Hệ thống là quá trình hàng ngày của cá nhân để hướng tới tầm nhìn của cá nhân ấy. 
+Hệ thống là quá trình hàng ngày của cá nhân để hướng tới tầm nhìn của cá nhân ấy. Chúng ta nói về "tầm nhìn" chứ không phải "mục tiêu", sẽ tốt hơn nếu bắt đầu bằng việc khởi đầu với một tầm nhìn về nơi mà mình muốn đến.
 
-"Tầm nhìn", không phải "mục tiêu": Mình nghĩ sẽ tốt hơn nếu bắt đầu bằng việc khởi đầu với một tầm nhìn về nơi mà mình muốn đến.
+Những kết quả mà mình xây dựng được gần như không liên quan gì đến những mục tiêu mà mình đặt ra, mà lại liên quan đến hệ thống mà mình tuân theo.
 
-Phần dưới đây sẽ được trích dẫn từ [bài viết của James Clear](https://jamesclear.com/goals-systems):
+Khi tập trung vào hệ thống thay vì mục tiêu, thay vì nói bạn sẽ làm gì, hãy nói những gì mà bạn đã làm được. Đừng nói là "Mình sẽ học nội dung này trong tuần này" mà hãy nói "Mình đã học được nội dung x, y, z trong tuần này và mình đang tiến bộ hơn". Hãy chỉ _ghi công_ cho những gì mà mình đã làm chứ không phải là cái gì mà mình _sẽ làm_. 
 
-> Prevailing wisdom claims that the best way to achieve what we want in life—getting into better shape, building a successful business, relaxing more and worrying less, spending more time with friends and family—is to set specific, actionable goals. [...]
-> 
-> Eventually, I began to realize that my results had very little to do with the goals I set and nearly everything to do with the systems I followed.
+Sau khi bạn đã xây dựng được một hệ thống đủ tốt rồi thì đã đến lúc xây dựng mục tiêu rồi. Trong quá trình phát triển *hệ thống* của riêng mình, bạn sẽ biết được mục tiêu nào có thể đạt được và mục tiêu nào không.
 
+Để tóm tắt lại, bạn có mục tiêu, và để hiện thực hóa được mục tiêu thì bạn cần phải có hệ thống. Hệ thống là thứ đưa bạn đến mục tiêu, mục tiêu chỉ là điểm đến của bạn.
 
-Đây là 3 ví dụ từ bài viết của James Clear
-
-> - If you’re a coach, your goal might be to win a championship. Your system is the way you recruit players, manage your assistant coaches, and conduct practice (Nếu bạn là một huấn luyện viên, mục tiêu của bạn có thể là dành giải vô địch. Hệ thống của bạn là cách bạn tuyển dụng tuyển thủ, quản lý các bài  và thực hiện việc luyện tập)
-> - If you’re a musician, your goal might be to play a new piece. Your system is how often you practice, how you break down and tackle difficult measures, and your method for receiving feedback from your instructor.
-
-Liệu chỉ tập trung vào hệ thống và hoàn toàn bỏ qua mục tiêu thì có thể thành không?
-
-> Now for the interesting question: if you completely ignored your goals and focused only on your system, would you still succeed? [...]
-> 
-> I think you would.
-> 
-> The goal in any sport is to finish with the best score, but it would be ridiculous to spend the whole game staring at the scoreboard.
-
-Cách duy nhất để chiến thắng là cần phải cải thiện mỗi ngày.
-
-> The only way to actually win is to get better each day.
-> 
-> What do I mean by this? Are goals completely useless? Of course not. Goals are good for setting a direction, but systems are best for making progress. 
-> A handful of problems arise when you spend too much time thinking about your goals and not enough time designing your systems.
-
-Vấn đề với việc tập trung vào mục tiêu?
-
-> When you're focused on your system instead of your goal, instead of saying what you will do, tell people what you have already done. Don't say, "I will practice piano every single day!" Instead, only say, "I practiced 4 times this week, I made some good progress. I learned x, y, and z." Don't give yourself credit for what you will do, but make sure you give yourself credit for what you already did.
-
-Sau khi bạn đã xây dựng được một hệ thống đủ tốt rồi thì
-
-> Once you have a system well established, then it's time to make attainable goals. Through the development of your system, you will learn a lot about yourself and you will learn what goals are attainable and what goals are not.
-
-### Mục tiêu chính của hệ thống
-Chúng ta hãy khái quát lại hệ thống. 
-
-Hệ thống ở đây chỉ đơn giản là những việc mình cần làm để trở lên tốt hơn mỗi ngày.
-
-
+## Mục lục
+- Hiểu về mục tiêu & hệ thống
+	- Những hiểu nhầm
+- Dọn dẹp
+	- Tôi nghiện [X]
+	- Sự thiếu kiên nhẫn
+	- Tôi cần dừng lại
+	- Chán
+- Thói quen và từng nấc thang cho sự tiến bộ
+	- Xây dựng thói quen
+	- Không còn một ngày số không nào cả
+	- Ghi chú về sự bào chữa
+- Những hướng dẫn học tập
+	- Hướng dẫn cách ghi chú
+	- Ghi nhớ các thông tin đã học.
+- Tài nguyên học tập
 
 ### Vậy thì bắt đầu xây dựng hệ thống như thế nào?
 
 ### Thói quen
 
-Một trong những điểm khởi đầu là bạn hãy bắt đầu xây dựng "No More Zero Days". Đây là một trong những "hệ thống" được xây dựng bởi từ đúng [một bình luận trên Reddit của u/ryans01](https://old.reddit.com/r/getdisciplined/comments/1q96b5/deleted_by_user/cdah4af/). 
-
-### Không được để ngày nào là Zero Day
-1. No More Zero Days: Promise yourself that you will do one thing every day that takes you one step closer to your goal(s)
-2. Be Grateful To The Three "You"s
-> 
->- Past Self: Thank your past self for the favours they did for you
->- Present Self: Do your future self a favour - they deserve it!
->- Future Self: Your absolute best friend, and a great person.
->- 
->- 3. Forgive Yourself: It's okay to fuck up. Forgive your past self, and be a better friend for your future self.
-> 4. Exercise and Books: Get your heart rate up and try to read when you can. Also the easiest way to avoid a Zero Day
-> 5. It means that the WAY you think, the THINGS you think of, and the IDEAS YOU HOLD IN YOUR MIND defines the sum total that is you.
+Một trong những điểm khởi đầu là bạn hãy bắt đầu xây dựng "No More Zero Days". Đây là một trong những "hệ thống" được xây dựng bởi từ đúng [một bình luận trên Reddit của u/ryans01](https://old.reddit.com/r/getdisciplined/comments/1q96b5/deleted_by_user/cdah4af/). Không được để ngày nào là **một ngày số 0**. Mỗi ngày đều cần phải thực hiện hành động và hướng đến mục tiêu của bản thân.
 
 ### Bản đồ
 
@@ -82,10 +55,10 @@ Một trong những điểm khởi đầu là bạn hãy bắt đầu xây dựn
 
 Lập một danh sách những việc cần làm theo thứ tự khi bắt gặp một cue cho một thói quen hay hành động?
 
+### Đọc tiếp
+- [Hướng dẫn học từ sách giáo trình, video bài giảng và các loại tài liệu học khác](bai-dang/cach-minh-hoc-tu.md)
 
-### Các bài viết khác
-Các bài viết khác sẽ tập trung vào khai thác từng chủ đề cụ thể một
-
+Vẫn đang trong quá trình cải thiện và phát triển.
 
 ### Tham khảo
 

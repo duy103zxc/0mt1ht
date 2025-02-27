@@ -30,6 +30,11 @@ Nâng cấp hệ thống học tập của bạn lên
 - [Những thói quen siêu nhỏ](bai-viet/thoi-quen-nho.md)
 - [Làm việc để hoàn thành việc (GTD)](bai-viet/hoan-thanh-viec.md)
 
+### Mục tiêu & Tầm nhìn
+
+- [S.M.A.R.T](bai-viet/muc-tieu-smart.md)
+- [Hướng dẫn 8760 giờ của Alex Vermeer](bai-viet/8760-gio.md)
+
 ### Kho công cụ
 Một hộp công cụ giúp bạn xử lý những việc nhất định trong quá trình học của mình.
 

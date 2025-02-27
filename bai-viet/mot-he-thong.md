@@ -1,0 +1,1 @@
+# Một hệ thống đơn giản

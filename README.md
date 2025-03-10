@@ -2,20 +2,38 @@
 
 > Hướng dẫn này sẽ chỉ tập trung sắp xếp và bổ sung lại từ rất nhiều hướng dẫn học khác.
 
-Hướng dẫn này sẽ tập trung vào xây dựng hệ thống học tập và làm việc. Hệ thống làm việc ở đây có thể hiểu đơn giản là những hành động đưa bạn đến gần hơn với "tầm nhìn" (vision) của bản thân mình.
-
-Bạn có thể coi việc "học" là việc mình nạp input để chuẩn bị cho việc "làm" và "làm" để giúp củng cố những gì đã được "học", đồng thời tiếp tục đẩy khả năng của mình đến "ngưỡng trần" và tiếp tục học từ đó.
-
 
 ## Tổng quan
 Cuốn sách này sẽ được bố cục như thế nào? Bao gồm 4 đầu mục lớn.
 
-- Mục 1: Phá bỏ rào cản: Tập trung vào tiêu diệt "sự tẩy não" do các hiểu nhầm tai lại, do bản chất cố hữu của con người, do những gì xã hội áp đặt (Áp dụng một phần Easyway của Allen Carr và Rational Recovery của Jack Trimpey, tiêu diệt sự tẩy não (đại quỷ) và Addictive Voice (tiểu quỷ)).
+- Mục 1: Phá bỏ rào cản: Tập trung vào tiêu diệt "sự tẩy não" do các hiểu nhầm tai lại, do bản chất cố hữu của con người, do những gì xã hội áp đặt (Áp dụng một phần Easyway của Allen Carr và Rational Recovery của Jack Trimpey, tiêu diệt sự tẩy não (đại quỷ) và Addictive Voice (tiểu quỷ)). Các vấn đề bao gồm: "Trì hoãn" (Tại sao thắng trì hoãn lại khó đến vậy?), "Tham lam" (Tham nhiệm vụ) (Xác định các vấn đề mà khiến việc)
 - Mục 2: Xây dựng tầm nhìn và định hình cho bản thân cũng như hệ thống (Sau khi hiểu rằng hệ thống là nền tảng, bắt đầu tạo tầm nhìn, xây dựng identity của bản thân và chuẩn bị tâm thế)
 - Mục 3: Bắt đầu xây dựng nền tảng của toàn bộ hệ thống, những thói quen và vòng lặp phản hồi (Feedback Loop)
 - Mục 4: Tư duy rộng, có chiều sâu (Về cơ bản là các bộ sách của bác Thu Giang) và tâm lý
 
 Bổ sung: Phương pháp sử dụng tài liệu, cách đọc và các thứ liên quan.
+
+
+Những yếu tố ngăn ta bắt đầu
+- Chán (Tâm lý)
+- Trì hoãn (Do cơ chế phản hồi tức thì, điều này cũng ảnh hưởng đến tâm lý bắt đầu, "just do something")
+- Những cơn nghiện (Đây sẽ là phần trích dẫn Easyway vào)
+- Ảo tưởng về sự đạt thành (Những mục tiêu vô chủ, những vấn đề xoay quanh)
+- Động lực (Những ảo tưởng về động lực, và cảm xúc)
+- Tự cao ()
+- [Lợi ích của việc không học]()
+- [Giấc ngủ]
+
+Những yếu tố bất ổn
+
+Bắt đầu quá trình xây dựng hệ thống: Xây dựng tầm nhìn và định hình cho bản thân cũng như hệ thống (Sau khi hiểu rằng hệ thống là nền tảng, bắt đầu tạo tầm nhìn, xây dựng identity của bản thân và chuẩn bị tâm thế) (Cải thiện hoàn toàn thêm cả của Allen Carr)
+
+Đọc nhiều hơn (Nhưng mà đọc gì)? Vấn đề về đọc
+
+Sau khi học:
+
+Tâm lý hoàn thành xong là thôi
+
 
 ### Phá bỏ rào cản
 

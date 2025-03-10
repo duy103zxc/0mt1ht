@@ -1,2 +1,1 @@
-# bai-viet/tai-nguyen
-
+# Tài nguyên học

@@ -1,0 +1,1 @@
+# Tư duy hay không? Khả năng ghi nhớ liệu có đang bị underrated?

@@ -1,4 +1,8 @@
 # Cơn nghiện
+Bài viết này cần>
+
+- Đưa lại về một mô hình chung của Cơn nghiện, hoạt động Back-to-front, withdrawal symptoms và tương tự
+- Bàn về cơn nghiện nói chung
 
 Bài viết này được dựa trên phương pháp Easyway của Allen Carr và bài viết [EasyPeasy - từ bỏ Porn dễ dàng](https://spiderum.com/bai-dang/EasyPeasy-tu-bo-Porn-de-dang-XRpYqmHhIYXf). Bạn nên đọc sách của Allen Carr và thực hiện đầy đủ theo hướng dẫn. Bài viết dưới đây chỉ giới thiệu cho bạn về Easyway thôi.
 

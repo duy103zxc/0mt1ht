@@ -1,4 +1,4 @@
-# Rào cản của hệ thống
+# Phương pháp dễ
 
 > Hệ thống là chuỗi các hành động lặp đi lặp lại, được thiết kế để tạo ra kết quả mong muốn.
 
@@ -23,4 +23,7 @@ Giả sử bạn có một con Dream, và khi đi hai cung đường: Một cung
 
 Bản thân cách định hướng này được truyền cảm hứng rất nhiều bởi Easyway của Allen Carr. Mình không ngờ rằng mình có thể phát hiện ra được một trong những con đường tự học và rèn luyện bản thân hay đến vậy chỉ nhờ một hướng dẫn cách thoát nghiện thuốc lá.
 
-Sẽ còn được cải thiện thêm
+
+### TODO
+Mục tiêu của chương này cũng sẽ tương tự như Chương 2 trong The Easy Method, tập trung dẫn dắt vào các vấn đề xoay quanh những "chất" gây xói mòn hệ thống.
+

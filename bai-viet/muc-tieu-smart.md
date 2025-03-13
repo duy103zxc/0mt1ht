@@ -22,7 +22,7 @@ Chẳng hạn mục tiêu về nghề nghiệp, lương đạt được 30 tri�
 
 Vậy để đạt được "người" mà tôi muốn trở thành, tôi sẽ có những mục tiêu nhỏ hơn để đạt được. Những mục tiêu có thời gian thực hiện lâu tốn nhiều thời gian và công sức chúng ta sẽ gọi là Lifetime Goals.
 
-#### Bước 1: Xác định mục tiêu cuộc đời (Define Lifetime Goals)
+## Bước 1: Xác định mục tiêu cuộc đời (Define Lifetime Goals)
 
 Lifetime Goals: Xác định những mục tiêu lớn của cuộc đời.
 
@@ -38,13 +38,9 @@ Lifetime Goals: Xác định những mục tiêu lớn của cuộc đời.
 
 Có thể tham khảo thêm bài viết này để xác định mục tiêu cho những nội dung trên: [7 Types of Goal Setting](https://www.developgoodhabits.com/types-of-goals/)
 
-* * *
 
-**Đọc thêm:**
 
-* * *
-
-#### Bước 2: Chia nhỏ mục tiêu lớn (Divide goals into short-term, mid-term, and long-term)
+## Bước 2: Chia nhỏ mục tiêu lớn (Divide goals into short-term, mid-term, and long-term)
 
 Phân rã các kế hoạch lớn thành những kế hoạch nhỏ hơn để dễ thực hiện và giải quyết.
 
@@ -52,7 +48,7 @@ Phân rã các kế hoạch lớn thành những kế hoạch nhỏ hơn để d
 2. Mid term goals ( Mục tiêu trung hạn, 1-2 năm )
 3. Short term goals ( Mục tiêu ngắn hạn, 2 tuần - 12 tháng)
 
-#### Bước 3: Hiện thực hóa mục tiêu (Make your goals achievable)
+## Bước 3: Hiện thực hóa mục tiêu (Make your goals achievable)
 
 Tôi sử dụng 5 tiêu chí S.M.A.R.T
 
@@ -62,23 +58,18 @@ Tôi sử dụng 5 tiêu chí S.M.A.R.T
 - R – Relevant (or Rewarding): Mục tiêu phải phù hợp và liên quan với định hướng của bạn (Lifetime goals).
 - T – Time-bound (or Trackable): Mục tiêu phải có thời hạn (deadline).
 
-#### Bước 4:  Ngồi xuống và viết cụ thể ra giấy (Sit down & Set goal in writing)
+## Bước 4:  Ngồi xuống và viết cụ thể ra giấy (Sit down & Set goal in writing)
 
 Ngồi xuống và viết những gì bạn đang suy nghĩ trong đầu xuống giấy, đừng để nó chỉ là những ý nghĩ thông thường xuất hiện rồi nhanh chóng biến mất.
 
 Sử dụng [To-do-list](https://www.mindtools.com/pages/article/newHTE_05.htm) để quản lý, kiểm soát mức độ tiến trình mục tiêu.
 
-* * *
 
-**Đọc thêm:**
 
-* * *
-
-#### Bước 5: Hành động hóa những con chữ ( [Make an Action Plan](https://www.mindtools.com/pages/article/newHTE_83.htm))
+## Bước 5: Hành động hóa những con chữ ( [Make an Action Plan](https://www.mindtools.com/pages/article/newHTE_83.htm))
 
 Mục tiêu là tăng cường sức khỏe cho bản thân bằng cách chạy 2km mỗi ngày, vậy thì hãy xách giày ra và chạy ngay và luôn. Đừng để những gì bạn viết ra chỉ là một bản kế hoạch không bao giờ được thực hiện.
 
-* * *
 
 ### Một số mẹo thiết lập mục tiêu
 

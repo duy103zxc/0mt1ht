@@ -1,2 +1,2 @@
-# bai-viet/ghi-nho
+# Tìm hiểu về ghi nhớ
 

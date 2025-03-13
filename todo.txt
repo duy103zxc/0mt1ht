@@ -1,4 +1,0 @@
-Cách bố cục sách cũng tạm ổn rồi, nhưng vẫn còn chưa xử lý được các vấn đề cốt lỗi như:
-
-- Cách liên kết giữa các chương
-- Cách cho các nội dung không bị hướng dẫn quá chung chung.

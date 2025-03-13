@@ -1,6 +1,8 @@
 # Những thói quen siêu nhỏ
 
-Bản dịch của bài viết [Mini Habit Ideas](https://minihabits.com/mini-habit-ideas/)
+Sau khi bạn đã tìm hiểu về lối sống "Không còn ngày số 0", thì có thể bạn sẽ muốn thử bắt đầu thử một số thói quen siêu nhỏ rồi ^^.
+
+> Bản dịch của bài viết [Mini Habit Ideas](https://minihabits.com/mini-habit-ideas/)
 
 Bạn sẽ nhận thấy rằng mỗi phần đều có các ý tưởng dựa trên số lượng và thời gian. Các thói quen nhỏ dựa trên số lượng được khuyến nghị vì chúng thường dễ dàng hơn và lượng nỗ lực bạn bỏ ra cụ thể hơn. Điều này giúp não bộ của bạn tính toán mức độ dễ dàng của nó. Ví dụ, chạy cầu thang trong một phút đầy đủ có thể thực sự từ dễ đến rất căng thẳng, nhưng chạy lên xuống cầu thang hai lần thì chính xác.
 
@@ -104,9 +106,3 @@ Các nhà tâm lý học đã tìm ra một vài điều dường như làm cho 
 * Giúp đỡ người khác
 * Mỉm cười/cười trong 10 giây liên tục (điều đó khiến tôi cười khi nghĩ về điều này. Hãy xem những người cười cực độ này nếu bạn cần một sự thúc đẩy—nó có tính lây lan!)
 
-### **Thói quen nhỏ về kinh doanh**
-
-**Theo số lượng**
-
-* Viết ra 1 khách hàng tiềm năng ("khách hàng tiềm năng" trong trường hợp này áp dụng cho bán hàng hoặc kết nối mạng)
-* Gọi 1 khách hàng tiềm

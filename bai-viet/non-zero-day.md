@@ -1,18 +1,88 @@
-# Để không còn ngày số không nào nữa
+# Để không còn ngày số 0 nào nữa
 
-"Ôi chao. Nghe có vẻ như bạn đang trải qua một giai đoạn khó khăn, Max. Điều đó thật tệ. Tôi đã từng trải qua điều tương tự, nên tôi phần nào hiểu được những gì bạn đang nói. Tôi đã từng rơi vào vòng xoáy luẩn quẩn của sự nghi ngờ bản thân, thất vọng và chán ghét. Thật không tốt chút nào. Tôi biết. Nếu bạn không phiền, hãy để tôi nói với bạn một vài điều. Bạn có thể đọc chúng nếu muốn, đọc lại sau nếu bạn cảm thấy cần. Nhưng thành thật mà nói, nếu tôi dành tất cả thời gian này để gõ ra cho bạn mà bạn không để nó trở thành một chút mồi lửa cho ngọn lửa của bạn, thì bạn đang làm chúng ta cả hai thất vọng. Và bạn KHÔNG CẦN PHẢI làm điều đó. Bạn KHÔNG CẦN PHẢI làm bất cứ điều gì. Nhưng bạn có quyền lựa chọn.
+Bạn có bao giờ rơi vào tình trạng “ì ạch”, không muốn làm bất cứ điều gì, cảm thấy mọi thứ thật trì trệ và vô nghĩa? Ngày nào cũng trôi qua một cách nhạt nhẽo, bạn không tiến gần hơn đến mục tiêu, ước mơ của mình, thậm chí còn cảm thấy mình đang “lùi bước”? Nếu câu trả lời là “có”, rất có thể bạn đang trải qua những “ngày số không”.
 
-(Tôi là ai? Tên tôi là Ryan và tôi sống ở Canada. Tôi vừa chuyển đến một thành phố mới để làm công việc mơ ước mà tôi có được nhờ những quy tắc dưới đây. Tôi nợ rất nhiều thành công của mình cho những người tuyệt vời hơn, tử tế hơn, yêu thương hơn và vĩ đại hơn tôi. Khi tôi có cơ hội để chia sẻ một chút giúp đỡ, đó là cách để cảm ơn họ.)
+## Ngày số không là gì?
 
-**Quy tắc số một - Không còn ngày số không nữa.** Ngày số không là gì? Ngày số không là khi bạn không làm một việc quái nào hướng tới bất kỳ ước mơ, mục tiêu, mong muốn hoặc bất cứ điều gì bạn đang theo đuổi. Không còn ngày số không nữa. Tôi không nói rằng bạn phải viết một bài luận mỗi ngày, đó không phải là vấn đề. Vấn đề tôi đang cố gắng nói là bạn phải tự hứa với bản thân rằng HỆ THỐNG mới mà bạn đang sống là một hệ thống KHÔNG SỐ KHÔNG. Cả ngày không làm gì và bây giờ là 11:58 tối? Viết một câu. Một lần chống đẩy. Đọc một trang của chương đó. Một. Bởi vì một là không phải số không. Bạn hiểu ý tôi chứ? Khi bạn đang ở trong vòng xoáy siêu buồn bã, mô hình hành vi của bạn đang giữ cho vòng xoáy tiếp tục, đó là điều bạn đã quen. Biến thành bậc thầy tối thượng về năng suất không xảy ra từ vòng xoáy. Nó xảy ra từ một chuỗi LƯU Ý LIÊN TỤC CÁC NGÀY KHÔNG SỐ KHÔNG. Đó là quy tắc số một. Đừng quên.
+Ngày số không đơn giản là ngày mà bạn không làm BẤT CỨ ĐIỀU GÌ có ý nghĩa, không có bất kỳ hành động nào hướng tới mục tiêu, ước mơ, hay bất cứ điều gì bạn đang nỗ lực theo đuổi. Đó là những ngày bạn “mắc kẹt” trong vòng lẩn quẩn của sự trì hoãn, thiếu động lực, và cảm thấy bản thân vô cùng “vô dụng”.
 
-**Quy tắc thứ hai** - vâng, tôi đã học tiếng Pháp. Đó là một điều của người Canada. Xin lỗi vì thiếu dấu trọng âm, nhưng hãy để tôi đi vào quy tắc số 2. HÃY BIẾT ƠN 3 BẠN. Ơ, cái gì? 3 tôi? Nghe có vẻ như lời nói vô nghĩa. Tin tức chớp nhoáng, có ba bạn đấy. Có bạn trong quá khứ, bạn hiện tại và bạn tương lai. Nếu bạn muốn yêu ai đó và được ai đó yêu lại, bạn phải học cách yêu bản thân, và 3 bạn là chìa khóa. HÃY BIẾT ƠN bạn trong quá khứ vì những điều tích cực bạn đã làm. Và làm những việc tử tế cho bạn trong tương lai như bạn làm cho người bạn thân nhất của mình. Cảm thấy tồi tệ hôm nay? Dừng lại một giây, nghĩ về một quyết định tốt bạn đã đưa ra ngày hôm qua. Salad và cá ngừ thay vì Big Mac? CẢM ƠN TÔI TRONG QUÁ KHỨ. Ngày hôm qua có phải là ngày không số không vì bạn đã viết 200 từ (này, đó là tất cả những gì bạn có thể tập hợp được)? CẢM ƠN TÔI TRONG QUÁ KHỨ. Tiết kiệm được một ít tiền theo thời gian để mua thứ bạn muốn? CẢM ƠN. Phần thứ hai của 3 tôi là bạn phải làm cho bản thân trong tương lai một việc tử tế, giống như bạn làm cho người bạn thân nhất của mình (không có bạn thân nhất? Bây giờ bạn có rồi. Bạn có 2. Đó là bạn trong tương lai và bạn trong quá khứ). Mệt mỏi như địa ngục và không thể rời khỏi reddit/trò chơi điện tử/internet? Mặc kệ mày bạn hiện tại, cái này là cho tôi trong tương lai, tao sẽ tập P90X Ab Ripper X trong 17 phút. Tao đang làm điều này cho tôi trong tương lai. Đồng hồ báo thức kêu và giường quá thoải mái? Mặc kệ mày bạn hiện tại, cái này là cho người bạn thân nhất của tao, tôi trong tương lai. Tao sẽ dậy và chạy 5 km (hoặc chạy 25 mét, phải là không số không). HÃY CHẮC CHẮN RẰNG BẠN CẢM ƠN BẠN CŨ của mình vì đã làm tốt ở cuối mỗi.việc. duy nhất. điều đó làm cho cuộc sống của bạn tốt hơn. Chu kỳ làm điều gì đó cho người khác (bạn trong tương lai) và cảm ơn ai đó vì những điều tốt đẹp trong cuộc sống của bạn (bạn trong quá khứ) là chìa khóa để xây dựng lòng biết ơn và năng suất. Đừng nghi ngờ tôi. Theo thời gian, bạn nên lan tỏa lòng biết ơn đến những người khác giúp bạn trên con đường của mình.
+## Quy tắc số một và quan trọng nhất: “KHÔNG CÒN NGÀY SỐ KHÔNG NÀO NỮA!”
 
-**Quy tắc số 3** - đừng lo, tôi sẽ có phần tóm tắt ở cuối. (lấy bút chì và một tờ giấy để viết ra. Nghiêm túc đấy. Bạn cần phải vật lý tạo ra dấu vết trên giấy). THA THỨ CHO BẢN THÂN. Ý tôi là vậy. Có lẽ bạn có tất cả kiến thức, tiền bạc, khả năng, sức mạnh và tài năng để làm bất cứ điều gì bạn muốn làm. Nhưng giả sử bạn vẫn không làm điều đó. Bây giờ bạn đang tự trách mình vì không làm những gì bạn cần làm để trở thành người bạn muốn. Tin vui cho nhà vô địch, thất vọng về bản thân khiến bạn kém năng suất hơn. Đã cố gắng hết sức để có một ngày không số không vào ngày hôm qua và thất bại? Vậy thì sao. Tôi tha thứ cho bạn trong quá khứ. Tôi tha thứ cho bạn. Nhưng hôm nay? Hôm nay là một kiệt tác không số không theo khả năng tốt nhất của tôi cho bạn trong tương lai. Cái này là cho bạn những người bạn tương lai. Tha thứ đi, hãy sử dụng nó. Tôi tha thứ cho bạn. Hãy nói to ra.
+Điều này không có nghĩa là bạn phải “gồng mình” làm việc điên cuồng mỗi ngày, không ngừng nghỉ. Không ai yêu cầu bạn phải viết một bài luận “kinh thiên động địa” hay chạy marathon mỗi ngày. Vấn đề cốt lõi ở đây là bạn cần tạo ra một HỆ THỐNG sống “KHÔNG SỐ KHÔNG” cho chính mình.
 
-**Quy tắc cuối cùng**. Quy tắc số 4, là dễ nhất và nó có ba từ. Tập thể dục và sách. Thế thôi. Lời khuyên khá tiêu chuẩn nhưng khi bạn tập thể dục hàng ngày, bạn thực sự trở nên thông minh hơn. Khi bạn tập thể dục, bạn sẽ hưng phấn từ endorphin (cảm ơn cơ thể). Khi bạn tập thể dục, bạn sẽ làm sạch tâm trí. Khi bạn tập thể dục, bạn đang làm cho bản thân trong tương lai một việc tử tế lớn. Tập thể dục là một chân trên chiếc ghế đẩu ba chân. Bạn hiểu ý tôi chứ? Đối với sách, hầu như mọi thứ chết tiệt mà tất cả chúng ta từng nghĩ, hoặc cảm thấy, hoặc trải qua, hoặc muốn, hoặc muốn biết cách làm, hoặc bất cứ điều gì, đều đã được ai đó tìm ra. Hãy mua một vài cuốn sách đi Max. Đăng lên reddit về việc không quan tâm đến bản thân? Bước đầu tiên tốt đấy! (ngày không số không, cảm ơn tôi trong quá khứ vì đã gõ ra). Bạn biết bạn có thể làm gì khác không? Đọc 7 thói quen của người thành công cao. Đọc "Trí tuệ cảm xúc". Đọc "Từ tốt đến vĩ đại". Đọc "Tư duy nhanh và chậm". Đọc những cuốn sách sẽ giúp bạn hiểu. Đọc reddit thể hình cơ thể và kết hợp nó vào các bài tập của bạn. (những lần kéo xà của bạn thế nào rồi?). Đọc sách là tiếng còi cong vênh từ Super Mario 3. Nó đưa bạn đến cấp độ tiếp theo nhanh hơn rất nhiều.
+Hãy tự hứa với bản thân rằng, từ nay trở đi, sẽ không còn những ngày hoàn toàn “trống rỗng”, vô nghĩa nữa. Ngay cả khi bạn đang ở trong “vòng xoáy siêu buồn bã”, khi mà mô hình hành vi cũ đang “níu chân” bạn lại, hãy nhớ rằng, bậc thầy tối thượng về năng suất không được tạo ra từ những ngày “số không”. Sức mạnh thực sự đến từ CHUỖI NGÀY LIÊN TỤC “KHÔNG SỐ KHÔNG”.
 
-Đó là tất cả rồi anh bạn. Có rất nhiều điều khác khi nói đến cách biến những ngày không số không thành những ngày cực kỳ không số không, nhưng đó không phải là nhiệm vụ của bạn ngay bây giờ. Nhiệm vụ của bạn là không số không, tha thứ và làm những việc tử tế. Bạn có 36 bài luận phải nộp trong 24 phút và không thể hoàn thành được? Bạn trong quá khứ đã làm bạn thất vọng rất nhiều, nhưng này... Tôi tha thứ cho bạn. Hãy làm càng nhiều càng tốt trong 24 phút đó và sau đó tiếp tục.
+Cả ngày hôm nay bạn đã “dậm chân tại chỗ”, không làm được việc gì có ích, và bây giờ đã là 11:58 tối? Không sao cả! Hãy hành động ngay lập tức! Ngay bây giờ, bạn vẫn có thể:
 
-Tôi hy vọng tôi đã giúp được một chút, Max. Tôi có thể viết về điều này mãi mãi, nhưng tôi đã hứa với bản thân rằng tôi sẽ chạy 15 phút trong khi nghe A. Skillz Beats Working Vol. 3. Phải đi đây. Một lời khuyên cuối cùng. Bất kể việc đọc điều này lần đầu tiên có giúp ngày của bạn tốt
+*  Viết một câu văn (dù chỉ là một câu ngắn ngủi, vô nghĩa).
+*  Hít đất một lần.
+*  Đọc một trang sách.
 
+CHỈ MỘT HÀNH ĐỘNG NHỎ THÔI CŨNG ĐỦ! Bởi vì MỘT LÀ KHÔNG PHẢI SỐ KHÔNG! Bạn hiểu ý tôi chứ? Điều quan trọng không phải là bạn làm được BÁO NHIÊU, mà là bạn có chịu HÀNH ĐỘNG hay không.
+
+## Quy tắc số hai: “BIẾT ƠN BA NGƯỜI BẠN CỦA TA”
+
+Nghe có vẻ hơi kỳ lạ, nhưng sự thật là bạn không hề đơn độc. Bạn có BA NGƯỜI BẠN luôn bên cạnh: bạn trong quá khứ, bạn hiện tại, và bạn tương lai.
+
+Nếu bạn muốn yêu và được yêu, hãy học cách YÊU CHÍNH BẢN THÂN MÌNH. Và “BA BẠN” chính là chìa khóa để bạn thực hiện điều đó.
+
+Hãy biết ơn “bạn trong quá khứ” vì những điều tích cực mà bạn đã làm. Dừng lại một giây và nghĩ về những quyết định tốt đẹp mà bạn đã đưa ra trong ngày hôm qua, tuần trước, tháng trước…
+
+*  Hôm qua bạn đã chọn salad và cá ngừ thay vì Big Mac? CẢM ƠN BẠN TRONG QUÁ KHỨ!
+*  Ngày hôm qua KHÔNG PHẢI NGÀY SỐ KHÔNG vì bạn đã cố gắng viết được 200 từ (dù bạn cảm thấy chúng chẳng có nghĩa lý gì)? CẢM ƠN BẠN TRONG QUÁ KHỨ!
+*  Bạn đã tiết kiệm được một khoản tiền để mua thứ mình mong muốn? CẢM ƠN BẠN!
+
+Sự biết ơn “bạn trong quá khứ” sẽ tiếp thêm sức mạnh cho “bạn hiện tại”. Nó giúp bạn nhìn nhận những nỗ lực của bản thân, dù là nhỏ bé nhất, và trân trọng những thành quả đã đạt được.
+
+Tiếp theo, hãy làm những điều tử tế cho “bạn trong tương lai”, giống như cách bạn đối xử với người bạn thân nhất của mình. Hãy nghĩ về “bạn trong tương lai” như một người bạn thân thiết, người mà bạn luôn muốn dành những điều tốt đẹp nhất.
+
+*  Bạn đang mệt mỏi rã rời và chỉ muốn “dính chặt” vào Reddit, game, hay lướt web vô định? Mặc kệ “bạn hiện tại” đang “lười biếng” thế nào, hãy nghĩ đến “bạn trong tương lai”! Hãy đứng lên và tập bài P90X Ab Ripper X trong 17 phút thôi cũng được. Bạn đang làm điều này VÌ “BẠN TRONG TƯƠNG LAI”!
+*  Đồng hồ báo thức reo inh ỏi, và chiếc giường ấm áp đang “vẫy gọi”? “Phớt lờ” “bạn hiện tại” đang “kháng cự” dữ dội, hãy nghĩ đến “người bạn thân nhất” của bạn – “bạn trong tương lai”! Hãy bước ra khỏi giường và chạy bộ 5km (hoặc chạy 25 mét thôi cũng được, miễn là “KHÔNG SỐ KHÔNG”!). Bạn đang làm điều này VÌ “BẠN TRONG TƯƠNG LAI”!
+
+Sau mỗi hành động tử tế dành cho “bạn trong tương lai”, đừng quên “CẢM ƠN “BẠN TRONG QUÁ KHỨ” vì những điều tốt đẹp mà bạn đã làm được. Chu kỳ “cho đi” (làm điều tử tế cho “bạn trong tương lai”) và “nhận lại” (biết ơn “bạn trong quá khứ”) chính là chìa khóa để xây dựng lòng biết ơn và năng suất bền vững.
+
+## Quy tắc số ba: “THA THỨ CHO BẢN THÂN”
+
+Thành thật mà nói, sẽ có những ngày bạn “trượt dốc không phanh”, không thể thực hiện “ngày không số không” đúng như kế hoạch. Có lẽ bạn có đủ kiến thức, tiền bạc, khả năng, sức mạnh và tài năng để làm bất cứ điều gì mình muốn. Nhưng vấn đề là bạn ĐÃ KHÔNG LÀM ĐIỀU ĐÓ! Và bây giờ bạn đang “tự trách mình” vì đã không làm những gì cần thiết để trở thành con người mà bạn muốn trở thành.
+
+TIN VUI LÀ: “Dằn vặt bản thân” chỉ khiến bạn “ì ạch” hơn mà thôi! Thay vì “chìm đắm” trong cảm giác tội lỗi và thất vọng, hãy “THA THỨ CHO BẢN THÂN”.
+
+Hôm qua bạn đã cố gắng hết sức để có một “ngày không số không”, nhưng lại “thất bại”? KHÔNG SAO CẢ! “TÔI THA THỨ CHO BẠN TRONG QUÁ KHỨ. TÔI THA THỨ CHO BẠN.”
+
+Nhưng hôm nay thì sao? HÔM NAY LÀ MỘT TRANG MỚI! Hãy biến hôm nay thành một “KIỆT TÁC KHÔNG SỐ KHÔNG”, trong khả năng tốt nhất của bạn, VÌ “BẠN TRONG TƯƠNG LAI”.
+
+Hãy “THA THỨ” cho những sai lầm trong quá khứ, và “SỬ DỤNG” sự tha thứ đó làm động lực để tiến lên. “TÔI THA THỨ CHO BẠN”. HÃY NÓI THẬT TO RA!
+
+## Quy tắc cuối cùng (và dễ nhất): “TẬP THỂ DỤC VÀ ĐỌC SÁCH”
+
+Lời khuyên này có vẻ “cũ rích”, nhưng “cũ mà chất”!
+
+TẬP THỂ DỤC HÀNG NGÀY MANG LẠI NHỮNG LỢI ÍCH KHÔNG NGỜ:
+
+*  Bạn trở nên “thông minh hơn”: Tập thể dục kích thích não bộ phát triển, tăng cường trí nhớ và khả năng tư duy.
+*  Bạn tràn đầy năng lượng và hưng phấn: Tập thể dục giải phóng endorphin – “hormone hạnh phúc” tự nhiên của cơ thể.
+*  Bạn giải tỏa stress và “làm sạch tâm trí”: Tập thể dục giúp giảm căng thẳng, lo âu, và mang lại sự tĩnh tại, thư thái cho tâm hồn.
+*  Bạn đang làm một điều tử tế VÔ CÙNG LỚN cho “bạn trong tương lai”: Sức khỏe tốt là nền tảng cho mọi thành công và hạnh phúc.
+
+ĐỌC SÁCH LÀ “CON ĐƯỜNG NGẮN NHẤT” ĐỂ ĐẾN VỚI TRÍ TUỆ NHÂN LOẠI:
+
+Hầu như MỌI VẤN ĐỀ, MỌI KHÓ KHĂN, MỌI KHÁT VỌNG của chúng ta đều đã được ai đó nghiên cứu, giải quyết, hoặc ít nhất là “vén màn bí mật”. Sách chứa đựng tri thức, kinh nghiệm, và “lời khuyên tinh túy” của những người đi trước.
+
+*  Bạn đang “vật lộn” với sự “lười biếng”, “thiếu động lực”? Hãy đọc “7 Thói Quen Thành Đạt”.
+*  Bạn muốn cải thiện “trí tuệ cảm xúc”? Hãy đọc “Trí Tuệ Cảm Xúc”.
+*  Bạn khao khát “bứt phá vượt trội”? Hãy đọc “Từ Tốt Đến Vĩ Đại”.
+*  Bạn muốn hiểu rõ hơn về “tư duy”? Hãy đọc “Tư Duy Nhanh và Chậm”.
+
+Đọc sách giống như “ống còi cong vênh” trong Super Mario 3 – nó “dịch chuyển” bạn đến “cấp độ tiếp theo” nhanh chóng hơn rất nhiều!
+
+## Kết luận
+TÓM LẠI, ĐỂ KHÔNG CÒN “NGÀY SỐ KHÔNG” NÀO NỮA, HÃY GHI NHỚ 4 QUY TẮC VÀNG:
+
+1. KHÔNG CÒN NGÀY SỐ KHÔNG NÀO NỮA: Dù chỉ là một hành động nhỏ, hãy luôn “vận động” hướng tới mục tiêu.
+2. BIẾT ƠN BA BẠN: Biết ơn “bạn trong quá khứ”, làm điều tử tế cho “bạn trong tương lai”.
+3. THA THỨ CHO BẢN THÂN: Tha thứ cho những sai lầm trong quá khứ, và bắt đầu lại vào hôm nay.
+4. TẬP THỂ DỤC VÀ ĐỌC SÁCH: Đầu tư cho sức khỏe thể chất và trí tuệ.
+
+NHIỆM VỤ CỦA BẠN NGAY BÂY GIỜ KHÔNG PHẢI LÀ BIẾN “NGÀY KHÔNG SỐ KHÔNG” THÀNH “NGÀY SIÊU NĂNG SUẤT”. NHIỆM VỤ CỦA BẠN LÀ BIẾN “NGÀY SỐ KHÔNG” THÀNH “NGÀY KHÔNG SỐ KHÔNG” THỰC SỰ! Hãy bắt đầu từ những bước nhỏ, kiên trì thực hiện 4 quy tắc vàng, và bạn sẽ thấy cuộc sống của mình thay đổi theo chiều hướng tích cực từng ngày!
+
+P.S.: Bạn đang “ngập đầu” trong 36 bài luận và chỉ còn 24 phút nữa là “deadline”? “BẠN TRONG QUÁ KHỨ” ĐÃ KHIẾN BẠN VÔ CÙNG THẤT VỌNG, NHƯNG KHÔNG SAO CẢ… “TÔI THA THỨ CHO BẠN”. Hãy tập trung làm CÀNG NHIỀU CÀNG TỐT trong 24 phút còn lại, và sau đó… HÃY TIẾP TỤC HÀNH ĐỘNG!

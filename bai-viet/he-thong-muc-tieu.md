@@ -31,11 +31,13 @@ Việc chọn một mục tiêu đặt một gánh nặng lớn lên vai bạn. 
 
 Khi bạn tập trung vào việc thực hành thay vì hiệu suất, bạn có thể tận hưởng khoảnh khắc hiện tại và cải thiện cùng một lúc.
 
-### 2. Mục tiêu mâu thuẫn kỳ lạ với tiến độ dài hạn.
+### 2. Mục tiêu  tiến độ dài hạn.
 
 Bạn có thể nghĩ rằng mục tiêu của bạn sẽ giữ cho bạn có động lực trong dài hạn, nhưng điều đó không phải lúc nào cũng đúng.
 
-Hãy xem xét một người đang tập luyện cho một cuộc bán marathon. Nhiều người sẽ làm việc chăm chỉ trong nhiều tháng, nhưng ngay sau khi họ hoàn thành cuộc đua, họ ngừng tập luyện. Mục tiêu của họ là hoàn thành cuộc bán marathon và bây giờ họ đã hoàn thành nó, mục tiêu đó không còn ở đó để thúc đẩy họ nữa. Khi tất cả công việc khó khăn của bạn tập trung vào một mục tiêu cụ thể, điều gì còn lại để thúc đẩy bạn tiến lên sau khi bạn đạt được nó?
+Hãy xem xét một người đang tập luyện cho một giải chạy. Nhiều người sẽ làm việc chăm chỉ trong nhiều tháng, nhưng ngay sau khi họ hoàn thành cuộc đua, họ ngừng tập luyện. Mục tiêu của họ đã được hoàn thành, mục tiêu đó không còn ở đó để thúc đẩy họ nữa. 
+
+Khi tất cả công việc khó khăn của bạn tập trung vào một mục tiêu cụ thể, điều gì còn lại để thúc đẩy bạn tiến lên sau khi bạn đạt được nó?
 
 **GIẢI PHÁP:** Từ bỏ yêu cầu về kết quả ngay lập tức.
 
@@ -45,7 +47,9 @@ Trong một tình huống như trên, một tư duy dựa trên mục tiêu sẽ
 
 Nhưng với một tư duy dựa trên hệ thống, tôi không gặp khó khăn gì khi tiếp tục. Tư duy dựa trên hệ thống không bao giờ là về việc đạt được một con số cụ thể, mà là về việc tuân thủ quy trình và không bỏ lỡ các buổi tập.
 
-Tất nhiên, tôi biết rằng nếu tôi không bao giờ bỏ lỡ một buổi tập, thì tôi sẽ nâng được mức tạ lớn hơn trong dài hạn. Và đó là lý do tại sao hệ thống có giá trị hơn mục tiêu. Mục tiêu là về kết quả ngắn hạn. Hệ thống là về quá trình dài hạn. Cuối cùng, quá trình sẽ thắng.
+Tất nhiên, tôi biết rằng nếu tôi không bao giờ bỏ lỡ một buổi tập, thì tôi sẽ nâng được mức tạ lớn hơn trong dài hạn. 
+
+Đó là lý do tại sao hệ thống có giá trị hơn mục tiêu. Mục tiêu là về kết quả ngắn hạn. Hệ thống là về quá trình dài hạn. Cuối cùng, quá trình sẽ thắng.
 
 ### 3. Mục tiêu cho thấy rằng bạn có thể kiểm soát những thứ mà bạn không kiểm soát được.
 

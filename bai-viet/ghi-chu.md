@@ -1,2 +1,1 @@
-# bai-viet/ghi-chu
-
+# Hướng dẫn ghi chú

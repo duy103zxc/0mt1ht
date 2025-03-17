@@ -1,2 +1,0 @@
-# bai-viet/doc-them
-

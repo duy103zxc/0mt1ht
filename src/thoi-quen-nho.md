@@ -2,13 +2,11 @@
 
 Sau khi bạn đã tìm hiểu về lối sống "Không còn ngày số 0", thì có thể bạn sẽ muốn thử bắt đầu thử một số thói quen siêu nhỏ rồi ^^.
 
-> Bản dịch của bài viết [Mini Habit Ideas](https://minihabits.com/mini-habit-ideas/)
-
 Bạn sẽ nhận thấy rằng mỗi phần đều có các ý tưởng dựa trên số lượng và thời gian. Các thói quen nhỏ dựa trên số lượng được khuyến nghị vì chúng thường dễ dàng hơn và lượng nỗ lực bạn bỏ ra cụ thể hơn. Điều này giúp não bộ của bạn tính toán mức độ dễ dàng của nó. Ví dụ, chạy cầu thang trong một phút đầy đủ có thể thực sự từ dễ đến rất căng thẳng, nhưng chạy lên xuống cầu thang hai lần thì chính xác.
 
 Khi một điều gì đó dựa trên thời gian, bạn có thể cảm thấy muốn dừng lại sau khi hoàn thành thời gian của mình. Điều này có thể làm nản lòng "hiệp phụ", điều mà chúng ta chắc chắn không muốn! Tuy nhiên, một số người quá bận rộn nên họ nghĩ nhiều hơn về cách họ sử dụng thời gian (trái ngược với nỗ lực), đó là lý do tại sao nó được bao gồm như một tùy chọn.
 
-#### Suy nghĩ về việc theo dõi
+### Suy nghĩ về việc theo dõi
 
 Đôi khi tốt nhất là không theo dõi tỉ mỉ yêu cầu của bạn. Dù dựa trên thời gian hay số lượng, khi bạn đặt cho mình một mục tiêu rất dễ dàng như chạy cầu thang 15 giây, đồng hồ bấm giờ sẽ biểu thị "kết thúc" yêu cầu của bạn. Nhưng nếu bạn chỉ nhắm đến 15 giây mà không theo dõi, bạn không có chỉ báo "bây giờ là lúc dừng lại" và có thể làm nhiều hơn.
 
@@ -106,3 +104,5 @@ Các nhà tâm lý học đã tìm ra một vài điều dường như làm cho 
 * Giúp đỡ người khác
 * Mỉm cười/cười trong 10 giây liên tục (điều đó khiến tôi cười khi nghĩ về điều này. Hãy xem những người cười cực độ này nếu bạn cần một sự thúc đẩy—nó có tính lây lan!)
 
+### Nguồn bài viết
+Bản dịch của bài viết [Mini Habit Ideas](https://minihabits.com/mini-habit-ideas/)

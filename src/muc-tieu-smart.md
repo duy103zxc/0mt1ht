@@ -8,8 +8,6 @@ Thử suy nghĩ ngược lại vấn đề, tôi tự hỏi tại sao những m�
 
 Tôi tìm kiếm trên thanh công cụ một vài từ khóa "how to set goals" rất nhiều kết quả được hiển thị. Bây giờ, việc cuối cùng là đọc và tìm hiểu nội dung nào có ích và mang lại giá trị cho mình.
 
-![](https://thongvh.files.wordpress.com/2020/05/screenshot-from-2020-05-14-09-37-22.png)Kết quả của từ khóa "how to set goals"
-
 Tôi nhận ra có rất nhiều phương pháp khoa học để "set goals". Sau đây, tôi sẽ giới thiệu một trong những phương pháp mà tôi tìm hiểu, cảm thấy có ích và phù hợp với thực tiễn.
 
 > Trong mười năm tới, bạn muốn trở thành người như thế nào?
@@ -24,10 +22,10 @@ Vậy để đạt được "người" mà tôi muốn trở thành, tôi sẽ c
 
 ## Bước 1: Xác định mục tiêu cuộc đời (Define Lifetime Goals)
 
-Lifetime Goals: Xác định những mục tiêu lớn của cuộc đời.
+Lifetime Goals:Xác định những mục tiêu lớn của cuộc đời.
 
 1. Career: Cái này tôi sẽ không bàn tới, mỗi người sẽ mong muốn một sự nghiệp khác nhau. Vì giới hạn của bài viết cũng như chưa đủ trải nghiệm về sự nghiệp, tôi sẽ chỉ trích dẫn một bài viết của một đàn anh để mọi người tìm hiểu về mục này: [Ta muốn sự nghiệp như ta muốn](https://www.facebook.com/notes/ho%C3%A0ng-nguy%E1%BB%85n/ta-mu%E1%BB%91n-s%E1%BB%B1-nghi%E1%BB%87p-nh%C6%B0-ta-mu%E1%BB%91n/2417028991681247/)
-2. Financial: Tự do tài chính, lương 8 9 con số chẳng hạn, mua nhà mua xe, ... Hoặc có thể tham khảo thêm về tài chính cá nhân:  [5 con số quan trọng nhất của Tài Chính Cá Nhân](https://www.alex-tu.com/blogging-life/5-con-so-quan-trong-nhat-cua-tai-chinh-ca-nhan)
+2. Financial: Tự do tài chính, lương 8 9 con số chẳng hạn, mua nhà mua xe, ... Hoặc có thể tham khảo thêm về tài chính cá nhân: [5 con số quan trọng nhất của Tài Chính Cá Nhân](https://www.alex-tu.com/blogging-life/5-con-so-quan-trong-nhat-cua-tai-chinh-ca-nhan)
 3. Education (specialized knowledge, knowledge society): Học bổng top lớp, GPA ~ 8.0 cho 8 kỳ Đại Học, IELTS 7.0 và không có band nào dưới 6.0, đọc 24 quyển sách/ năm
 4. Skill: Kỹ năng nói trước đám đông, làm việc nhóm, ...
 5. Relationship ( Family, Friend, Love, ...): Cùng gia đình du lịch 1 năm 2 lần, làm quen được 20 người bạn mới, cưới vợ, có con, ...
@@ -58,13 +56,11 @@ Tôi sử dụng 5 tiêu chí S.M.A.R.T
 - R – Relevant (or Rewarding): Mục tiêu phải phù hợp và liên quan với định hướng của bạn (Lifetime goals).
 - T – Time-bound (or Trackable): Mục tiêu phải có thời hạn (deadline).
 
-## Bước 4:  Ngồi xuống và viết cụ thể ra giấy (Sit down & Set goal in writing)
+## Bước 4: Ngồi xuống và viết cụ thể ra giấy (Sit down & Set goal in writing)
 
 Ngồi xuống và viết những gì bạn đang suy nghĩ trong đầu xuống giấy, đừng để nó chỉ là những ý nghĩ thông thường xuất hiện rồi nhanh chóng biến mất.
 
 Sử dụng [To-do-list](https://www.mindtools.com/pages/article/newHTE_05.htm) để quản lý, kiểm soát mức độ tiến trình mục tiêu.
-
-
 
 ## Bước 5: Hành động hóa những con chữ ( [Make an Action Plan](https://www.mindtools.com/pages/article/newHTE_83.htm))
 
@@ -74,9 +70,9 @@ Mục tiêu là tăng cường sức khỏe cho bản thân bằng cách chạy 
 ### Một số mẹo thiết lập mục tiêu
 
 - State each goal as a positive statement: Thể hiện sự tích cực với những mục tiêu đặt ra.
-- Be precise: Đặt mục tiêu chính xác, đưa về ngày, giờ và số lượng để bạn có thể đo lường thành tích. Điều này sẽ cho bạn biết chính xác khi nào bạn đã đạt được mục tiêu.
+- Be precise:Đặt mục tiêu chính xác, đưa về ngày, giờ và số lượng để bạn có thể đo lường thành tích. Điều này sẽ cho bạn biết chính xác khi nào bạn đã đạt được mục tiêu.
 - Set priorities: Khi bạn có nhiều mục tiêu, hãy ưu tiên cho từng mục tiêu. Điều này giúp bạn tránh cảm giác choáng ngợp khi có quá nhiều mục tiêu và hướng sự chú ý của bạn đến những mục tiêu quan trọng nhất.
-- Write goals down: Viết chúng xuống không chỉ giúp bạn hình dung ra điều bạn muốn mà còn thể hiện sự nghiêm túc của bạn đối với những mong muốn đó.
+- Write goals down:Viết chúng xuống không chỉ giúp bạn hình dung ra điều bạn muốn mà còn thể hiện sự nghiêm túc của bạn đối với những mong muốn đó.
 - Keep operational goals small: Một mục tiêu quá lớn sẽ làm bạn chùn bước. Cố gắng hoàn thành tốt những mục tiêu nhỏ, tiền đề để bạn tiến tới những mục tiêu lớn.
 - [Set performance goals, not outcome goals](https://www.mindtools.com/pages/article/newHTE_83.htm): Đặt mục tiêu cẩn thận, kiểm soát tối đa và giữ mục tiêu trong tầm với . Trong kinh doanh, những lý do này có thể là môi trường kinh doanh tồi tệ hoặc tác động bất ngờ từ các chính sách của chính phủ. Trong thể thao,có thể bao gồm trọng tài phán đoán kém, thời tiết xấu, chấn thương hoặc chỉ đơn giản là sự xui xẻo. Nếu bạn đo lường mục tiêu của mình dựa trên hiệu suất cá nhân, thì bạn có thể kiểm soát việc đạt được mục tiêu của mình.
 - Set realistic goals: Đặt mục tiêu mà bạn có thể đạt được.

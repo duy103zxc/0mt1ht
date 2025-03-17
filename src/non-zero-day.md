@@ -2,11 +2,11 @@
 
 Bạn có bao giờ rơi vào tình trạng “ì ạch”, không muốn làm bất cứ điều gì, cảm thấy mọi thứ thật trì trệ và vô nghĩa? Ngày nào cũng trôi qua một cách nhạt nhẽo, bạn không tiến gần hơn đến mục tiêu, ước mơ của mình, thậm chí còn cảm thấy mình đang “lùi bước”? Nếu câu trả lời là “có”, rất có thể bạn đang trải qua những “ngày số không”.
 
-## Ngày số không là gì?
+### Ngày số không là gì?
 
 Ngày số không đơn giản là ngày mà bạn không làm BẤT CỨ ĐIỀU GÌ có ý nghĩa, không có bất kỳ hành động nào hướng tới mục tiêu, ước mơ, hay bất cứ điều gì bạn đang nỗ lực theo đuổi. Đó là những ngày bạn “mắc kẹt” trong vòng lẩn quẩn của sự trì hoãn, thiếu động lực, và cảm thấy bản thân vô cùng “vô dụng”.
 
-## Quy tắc số một và quan trọng nhất: “KHÔNG CÒN NGÀY SỐ KHÔNG NÀO NỮA!”
+### Quy tắc số một và quan trọng nhất: “KHÔNG CÒN NGÀY SỐ KHÔNG NÀO NỮA!”
 
 Điều này không có nghĩa là bạn phải “gồng mình” làm việc điên cuồng mỗi ngày, không ngừng nghỉ. Không ai yêu cầu bạn phải viết một bài luận “kinh thiên động địa” hay chạy marathon mỗi ngày. Vấn đề cốt lõi ở đây là bạn cần tạo ra một HỆ THỐNG sống “KHÔNG SỐ KHÔNG” cho chính mình.
 
@@ -20,9 +20,9 @@ Cả ngày hôm nay bạn đã “dậm chân tại chỗ”, không làm đư�
 
 CHỈ MỘT HÀNH ĐỘNG NHỎ THÔI CŨNG ĐỦ! Bởi vì MỘT LÀ KHÔNG PHẢI SỐ KHÔNG! Bạn hiểu ý tôi chứ? Điều quan trọng không phải là bạn làm được BÁO NHIÊU, mà là bạn có chịu HÀNH ĐỘNG hay không.
 
-## Quy tắc số hai: “BIẾT ƠN BA NGƯỜI BẠN CỦA TA”
+### Quy tắc số hai: “BIẾT ƠN BA NGƯỜI BẠN CỦA TA”
 
-Nghe có vẻ hơi kỳ lạ, nhưng sự thật là bạn không hề đơn độc. Bạn có BA NGƯỜI BẠN luôn bên cạnh: bạn trong quá khứ, bạn hiện tại, và bạn tương lai.
+Bạn luôn có BA NGƯỜI BẠN luôn bên cạnh: bạn trong quá khứ, bạn hiện tại, và bạn tương lai.
 
 Nếu bạn muốn yêu và được yêu, hãy học cách YÊU CHÍNH BẢN THÂN MÌNH. Và “BA BẠN” chính là chìa khóa để bạn thực hiện điều đó.
 
@@ -41,11 +41,11 @@ Tiếp theo, hãy làm những điều tử tế cho “bạn trong tương lai�
 
 Sau mỗi hành động tử tế dành cho “bạn trong tương lai”, đừng quên “CẢM ƠN “BẠN TRONG QUÁ KHỨ” vì những điều tốt đẹp mà bạn đã làm được. Chu kỳ “cho đi” (làm điều tử tế cho “bạn trong tương lai”) và “nhận lại” (biết ơn “bạn trong quá khứ”) chính là chìa khóa để xây dựng lòng biết ơn và năng suất bền vững.
 
-## Quy tắc số ba: “THA THỨ CHO BẢN THÂN”
+### Quy tắc số ba: “THA THỨ CHO BẢN THÂN”
 
 Thành thật mà nói, sẽ có những ngày bạn “trượt dốc không phanh”, không thể thực hiện “ngày không số không” đúng như kế hoạch. Có lẽ bạn có đủ kiến thức, tiền bạc, khả năng, sức mạnh và tài năng để làm bất cứ điều gì mình muốn. Nhưng vấn đề là bạn ĐÃ KHÔNG LÀM ĐIỀU ĐÓ! Và bây giờ bạn đang “tự trách mình” vì đã không làm những gì cần thiết để trở thành con người mà bạn muốn trở thành.
 
-TIN VUI LÀ: “Dằn vặt bản thân” chỉ khiến bạn “ì ạch” hơn mà thôi! Thay vì “chìm đắm” trong cảm giác tội lỗi và thất vọng, hãy “THA THỨ CHO BẢN THÂN”.
+"Dằn vặt bản thân” chỉ khiến bạn “ì ạch” hơn mà thôi! Thay vì “chìm đắm” trong cảm giác tội lỗi và thất vọng, hãy “THA THỨ CHO BẢN THÂN”.
 
 Hôm qua bạn đã cố gắng hết sức để có một “ngày không số không”, nhưng lại “thất bại”? KHÔNG SAO CẢ! “TÔI THA THỨ CHO BẠN TRONG QUÁ KHỨ. TÔI THA THỨ CHO BẠN.”
 
@@ -53,7 +53,7 @@ Nhưng hôm nay thì sao? HÔM NAY LÀ MỘT TRANG MỚI! Hãy biến hôm nay t
 
 Hãy “THA THỨ” cho những sai lầm trong quá khứ, và “SỬ DỤNG” sự tha thứ đó làm động lực để tiến lên. “TÔI THA THỨ CHO BẠN”. HÃY NÓI THẬT TO RA!
 
-## Quy tắc cuối cùng (và dễ nhất): “TẬP THỂ DỤC VÀ ĐỌC SÁCH”
+### Quy tắc cuối cùng (và dễ nhất): “TẬP THỂ DỤC VÀ ĐỌC SÁCH”
 
 Lời khuyên này có vẻ “cũ rích”, nhưng “cũ mà chất”!
 
@@ -73,9 +73,8 @@ Hầu như MỌI VẤN ĐỀ, MỌI KHÓ KHĂN, MỌI KHÁT VỌNG của chúng 
 *  Bạn khao khát “bứt phá vượt trội”? Hãy đọc “Từ Tốt Đến Vĩ Đại”.
 *  Bạn muốn hiểu rõ hơn về “tư duy”? Hãy đọc “Tư Duy Nhanh và Chậm”.
 
-Đọc sách giống như “ống còi cong vênh” trong Super Mario 3 – nó “dịch chuyển” bạn đến “cấp độ tiếp theo” nhanh chóng hơn rất nhiều!
+### Kết luận
 
-## Kết luận
 TÓM LẠI, ĐỂ KHÔNG CÒN “NGÀY SỐ KHÔNG” NÀO NỮA, HÃY GHI NHỚ 4 QUY TẮC VÀNG:
 
 1. KHÔNG CÒN NGÀY SỐ KHÔNG NÀO NỮA: Dù chỉ là một hành động nhỏ, hãy luôn “vận động” hướng tới mục tiêu.

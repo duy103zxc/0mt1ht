@@ -1,8 +1,9 @@
-# Nhật kí của những lời bào chữa
+# Lươn lẹo
+(Tìm thêm về khoa học cho cái này)
 
-Tôi sẽ chia sẻ với các bạn công cụ quan trọng nhất mà bạn có thể sử dụng để vượt qua những lý do biện minh, đó là Nhật ký lý do.
+Tôi sẽ chia sẻ với các bạn công cụ quan trọng nhất mà bạn có thể sử dụng để vượt qua những lý do biện minh, đó là *Nhật ký bào chữa*.
 
-Câu chuyện nhanh: Trở lại tháng Giêng, tôi muốn quay lại phòng tập thể dục nhiều hơn nhưng điều đó không xảy ra. Tôi rất bận, làm việc toàn thời gian cộng với 2 công việc phụ. Về cơ bản, tôi rời khỏi nhà lúc 6 giờ sáng và không về nhà cho đến 8 giờ tối. Tôi có rất nhiều lý do biện minh tại sao tôi không thể đến phòng tập thể dục mỗi ngày. Những gì tôi đã làm là bắt đầu một nhật ký lý do để thực sự hiểu những gì đang xảy ra. Kể từ đó, tôi đã đến phòng tập thể dục 5 ngày một tuần.
+Câu chuyện nhanh: Trở lại tháng 1, tôi muốn quay lại phòng tập thể dục nhiều hơn nhưng điều đó không xảy ra. Tôi rất bận, làm việc toàn thời gian cộng với 2 công việc phụ. Về cơ bản, tôi rời khỏi nhà lúc 6 giờ sáng và không về nhà cho đến 8 giờ tối. Tôi có rất nhiều lý do biện minh tại sao tôi không thể đến phòng tập thể dục mỗi ngày. Những gì tôi đã làm là bắt đầu một nhật ký lý do để thực sự hiểu những gì đang xảy ra. Kể từ đó, tôi đã đến phòng tập thể dục 5 ngày một tuần.
 
 Nhật ký lý do: Lấy một tờ giấy và tạo 3 cột. Cột một là "Lý do". Cột hai là "Hợp lý?". Cột 3 là "Thực tế/Giải pháp".
 

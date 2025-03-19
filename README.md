@@ -16,8 +16,7 @@
 - [Chán](src/chan.md)
 - [Trì hoãn](src/tri-hoan.md)
 - [Nghiện](src/nghien.md)
-- [Động lực](src/dong-luc.md)
-- [Ý chí](src/y-chi.md)
+- [Động lực](src/dong-luc.md) + [Ý chí](src/y-chi.md) (Gộp vào thành một bài và bỏ toàn bộ những nội dung không cần thiết)
 - [Bao biện (Lươn lẹo)](src/bao-bien.md)
 - [Dùng cái đầu](src/dung-cai-dau.md)
 - [Đi ngủ](src/di-ngu.md)
@@ -28,7 +27,6 @@
 - [Để không còn một ngày số không](src/non-zero-day.md)
 - [Những thói quen siêu nhỏ](src/thoi-quen-nho.md)
 - [Làm việc để hoàn thành việc (GTD)](src/hoan-thanh-viec.md)
-- [Tầm nhìn S.M.A.R.T](src/muc-tieu-smart.md)
 - [8760 giờ tiếp theo](src/8760-gio.md)
 
 ### Phần 4: Tiếp nối

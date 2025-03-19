@@ -1,7 +1,5 @@
 # Đi ngủ
 
-Bạn có bao giờ tự hỏi, đêm qua mình đã ngủ được bao nhiêu tiếng? Nếu con số đó thường xuyên dưới 8 tiếng, có lẽ bạn sẽ muốn khám phá những bí mật về giấc ngủ mà video "Khoa học về giấc ngủ" của Nguyễn Duy Thành trên YouTube mang lại. Dựa trên những kiến thức từ cuốn sách "Why We Sleep" của giáo sư Matthew Walker, một chuyên gia hàng đầu thế giới về giấc ngủ, chúng ta sẽ cùng nhau vén màn bí ẩn về giấc ngủ và hiểu rõ hơn tầm quan trọng của nó đối với cuộc sống.
-
 Theo khảo sát từ cộng đồng YouTube, phần lớn chúng ta đang ngủ từ 6 đến 7 tiếng mỗi ngày, và đáng lo ngại là có đến 60% ngủ ít hơn 7 tiếng. Bản thân Nguyễn Duy Thành cũng từng xem nhẹ giấc ngủ, nhưng sau khi đọc cuốn sách của Matthew Walker, anh nhận ra rằng giấc ngủ đóng vai trò then chốt đối với sức khỏe thể chất và tinh thần.
 
 Video này sẽ đưa bạn qua ba phần chính: khoa học về giấc ngủ, những tác hại của việc thiếu ngủ, và những bí quyết để có một giấc ngủ chất lượng.
@@ -18,7 +16,7 @@ Trong một đêm, giấc ngủ của chúng ta trải qua nhiều chu kỳ, m�
 
 Giấc ngủ NREM chiếm phần lớn thời gian ở giai đoạn đầu của giấc ngủ. Đây là giai đoạn quan trọng cho việc củng cố trí nhớ và phục hồi thể chất. Giấc ngủ REM thường xuất hiện nhiều hơn vào cuối đêm và đóng vai trò quan trọng trong việc xử lý cảm xúc, tăng cường khả năng sáng tạo và phát triển não bộ. Giấc mơ thường xảy ra trong giai đoạn REM.
 
-Vậy thế nào là một giấc ngủ ngon? Giáo sư Matthew Walker gợi ý hai câu hỏi để bạn tự đánh giá:
+Vậy thế nào là một giấc ngủ ngon?
 
 1.  Vào buổi sáng, khoảng 10-11 giờ, nếu bạn nằm xuống giường, bạn có thể ngủ ngay lập tức không? Nếu có, rất có thể bạn đang thiếu ngủ.
 2.  Bạn có cần đến caffeine để duy trì sự tỉnh táo và tập trung trong ngày không? Nếu câu trả lời là có, có thể bạn đang sử dụng caffeine để đối phó với tình trạng thiếu ngủ mãn tính.

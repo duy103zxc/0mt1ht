@@ -102,7 +102,7 @@ Các nhà tâm lý học đã tìm ra một vài điều dường như làm cho 
 
 * Thư giãn hoàn toàn hoặc thiền định
 * Giúp đỡ người khác
-* Mỉm cười/cười trong 10 giây liên tục (điều đó khiến tôi cười khi nghĩ về điều này. Hãy xem những người cười cực độ này nếu bạn cần một sự thúc đẩy—nó có tính lây lan!)
+* Mỉm cười/cười trong 10 giây liên tục (điều đó khiến tôi cười khi nghĩ về điều này. Hãy xem những người cười cực độ này nếu bạn cần một sự thúc đẩy — nó có tính lây lan!)
 
 ### Nguồn bài viết
 Bản dịch của bài viết [Mini Habit Ideas](https://minihabits.com/mini-habit-ideas/)

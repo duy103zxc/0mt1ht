@@ -1,38 +1,7 @@
 # Để hoàn thành công việc mà không bị Deadline dí (GTD)
-Bài viết này được viết bởi [Nguyễn Anh Minh
-](https://spiderum.com/nguoi-dung/minh21618) được đăng trên Spiderum [](https://spiderum.com/bai-dang/GTD-Getting-Things-Done-phuong-phap-lam-viec-de-Gen-Z-khong-bi-deadline-de-10a2). Bài viết này sẽ được mình chỉnh sửa lại để đảm bảo tuân theo cấu trúc của *cuốn sách* này
+Bài viết này được viết bởi [Nguyễn Anh Minh](https://spiderum.com/nguoi-dung/minh21618) được đăng trên Spiderum [Làm sao để không bị deadline dí](https://spiderum.com/bai-dang/GTD-Getting-Things-Done-phuong-phap-lam-viec-de-Gen-Z-khong-bi-deadline-de-10a2). Bài viết này sẽ được mình chỉnh sửa lại để đảm bảo tuân theo cấu trúc của *cuốn sách* này
 
-## Vì sao nên GTD?
-
-### 1. Vì não bạn ngu hơn bạn nghĩ
-
-Sự thật phũ phàng: bộ não con người, dù cực kỳ phức tạp và tinh vi, lại không được sinh ra để ghi nhớ mọi thứ. Đặc biệt khi mạng xã hội đang ngày càng trở nên phổ biến, thông tin chúng ta nhận vào trong 1 ngày là quá nhiều, khả năng tập trung của con người bị giảm xuống, càng khiến cho việc ghi nhớ những công việc cần làm giảm đi.
-
-Chính vì vậy, để làm việc hiệu quả hơn chúng cần có một "bộ não thứ hai" làm công việc nhắc nhở chúng ta về những đầu việc cần làm.
-
-Việc viết ra những thứ cần làm là một phương pháp không hề mới. **Các triết gia, nhà trí thức thời xưa thường xuyên có một quyển sổ bên người để ghi chép lại những việc cần làm, những ý tưởng trong đầu.** Trong thời đại số ngày này, việc giữ một cuốn sổ vẫn là một phương pháp ghi nhớ hiệu quả với nhiều người. Dù vậy, GTD là một phương pháp, không phải là một ứng dụng. Bạn hoàn toàn có thể áp dụng chỉ với một cuốn sổ, hay bất kì các trình ghi chú (Evernote, Simplenote, Google Keep, Todoist .v.v..)
-
-### 2. Vì cuộc sống đang diễn ra với một tốc độ quá nhanh
-
-Ngày trước, anh sếp cũ của mình đã chỉ cho mình cách này: mỗi buổi sáng khi đi làm, em hãy viết hết ra những công việc mà em phải làm trong ngày hôm ấy, sau đó, cứ làm theo thôi.
-
-Đây là một phương pháp đơn giản và cực kỳ phổ biến. Đặc biệt là trong môi trường công sở truyền thống, khi mà các công việc của bạn có thể làm xong trong ngày. Tuy nhiên, trong các môi trường năng động hơn, mọi việc sẽ trở nên phức tạp hơn. **Bạn sẽ có nhiều task cần thực hiện dài ngày, hay những công việc deadline bất chợt mà sếp giao**. Trong trường hợp này, nhiều khả năng, **các công việc mà bạn dự tính ban đầu sẽ không như kế hoạch.** Và như 1 hệ quả tất yếu, bạn sẽ rất dễ nản khi nhìn vào 1 đống tasks chưa được hoàn thành cuối ngày. Lại còn nản hơn khi 1 đống tasks ấy kèm theo những due date cụ thể dài dằng đặc.
-
-Cách sắp xếp các công việc cố định theo ngày không còn phù hợp với nhịp sống hiện đại. 
-
-Phương pháp GTD giải quyết vấn đề này bằng 1 hệ thống kết hợp những tasks cố định theo lịch biểu, và những tasks linh động hơn, để bạn thoải mái làm những tasks này trong một ngày mà không cảm thấy gấp gáp.
-
-### 3. Vì bạn không nên bị kiệt sức vì công việc
-
-Cân bằng giữa công việc và cuộc sống cá nhân chính là nỗi trăn trở của thế hệ trẻ ngày nay. Khi mà bạn quá tập trung cho công việc, sẽ rất dễ để chúng ta lãng quên đi chăm sóc cho bản thân. Ăn uống không điều độ khi chạy event là một ví dụ cụ thể nhất. Hay thức khuya để chạy deadline và sáng dậy uể oải không đi học, đi làm đúng giờ được cũng là một ví dụ điển hình. Điều này không phải là một điều gì đấy quá tệ nếu nó chỉ diễn ra trong một thời gian ngắn (khi bạn đã chạy nước rút cho 1 dự án, hay ra mắt sản phẩm mới), nhưng về lâu về dài, nó hoàn toàn có những hệ quả vô cùng nghiêm trọng. **Ăn uống ngủ nghỉ không điều độ là nguyên nhân chính khiến cho những bệnh về [viêm loét dạ dày đang ngày càng có dấu hiệu trẻ hoá.](https://medlatec.vn/tin-tuc/vi-sao-viem-loet-da-day-tro-thanh-can-benh-pho-bien-hien-nay-s67-n20284)** Theo Hội khoa học Tiêu hóa, tại Việt Nam có tới 26% dân số mắc bệnh viêm loét dạ dày tá tràng.
-
-![](https://25r4fj22vjh18a4i91qamh06-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/brain-trust_life-integration_thumbnail_no-frame-1088x618.jpg)
-
-*Cân bằng giữa công việc và cuộc sống cá nhân? Có thể không cơ chứ?*
-
-Dĩ nhiên, khi sức khoẻ bị ảnh hưởng, thì **chất lượng công việc của bạn cũng sẽ đi xuống 1 cách chóng mặt.**
-
-Phương pháp GTD, khác với các phương pháp khác, đòi hỏi bạn kiểm soát toàn bộ những khía cạnh của cuộc sống, từ đó giúp công việc của bạn suôn sẻ và thoải mái hơn, không còn cảm giác bị vội vội nữa. Bạn lúc nào cũng biết được là tại thời điểm này, trong bối cảnh này, mình có những tasks gì cần làm và bao giờ cần làm đến nó.
+Bài viết này cần được hệ thống và tối giản lại thành hướng dẫn
 
 ## Hướng dẫn GTD
 

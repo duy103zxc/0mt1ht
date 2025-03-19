@@ -32,3 +32,4 @@ Xây dựng hệ thống là một câu đố phức tạp và lôi cuốn, gi�
 
 1. Bản chất tự nhiên.
 2. Sự "tẩy não" từ những quan niệm sai lầm (về hệ thống). 
+

@@ -42,14 +42,34 @@ Mục tiêu là rèn luyện bản thân để dễ dàng đạt được trạn
 
 Sự khác biệt giữa cấp độ 2 và cấp độ 3 lớn đến mức nào? Theo một cuốn sách về khoa học não bộ mà tôi từng đọc, sức mạnh của phần não bộ cảm xúc mạnh hơn khoảng 5 lần so với phần não bộ logic. Đây cũng chính là lý do tại sao động lực ở cấp độ 1 lại không đáng tin cậy. Cảm xúc quá mạnh mẽ, và khi cảm xúc về một điều gì đó thay đổi, chúng ta dễ dàng bị chệch hướng.
 
-Đây về cơ bản là kỹ thuật mà nhiều vận động viên ưu tú sử dụng trước khi thi đấu. Nhiều vận động viên có "ngòi nổ hiệu suất" (performance triggers), về cơ bản là những quy trình được thiết lập để họ có thể nhanh chóng đạt được một trạng thái tinh thần nhất định.
-
-Điều quan trọng nhất ở những quy trình này không phải là các hành động cụ thể mà là sự nhất quán trong việc thực hiện chúng. Ý tưởng là dần dần neo những hành động của bạn vào bất kỳ trạng thái tinh thần cụ thể nào mà bạn muốn đạt được.
-
-Nguyên tắc cơ bản để xây dựng "ngòi nổ hiệu suất" là liên kết một chuỗi các hành động với một hành động cuối cùng mà bạn chắc chắn sẽ kích hoạt trạng thái tinh thần mong muốn.
-
-Ví dụ, giả sử bạn luôn cảm thấy tập trung khi rửa bát và bạn muốn có thể đạt được cảm giác tập trung tương tự khi thực hiện các hoạt động khác. Để đạt được điều này, bạn thiết lập một thói quen thực hiện hàng ngày trước khi rửa bát. Như đã nói, các chi tiết của thói quen không thực sự quan trọng, nhưng sự nhất quán là yếu tố then chốt. Bạn thực hiện thói quen này mỗi ngày trước khi rửa bát, và não bộ của bạn sẽ bắt đầu liên kết thói quen này với cảm giác tập trung mà bạn có được trong khi rửa bát. Cuối cùng, mối liên kết này sẽ trở nên đủ mạnh để bạn có thể thực hiện cùng một thói quen trong các bối cảnh khác nhau và vẫn đạt được trạng thái tinh thần mong muốn.
-
 ### Tóm lại là...
 
 Tóm lại, dù động lực có vai trò nhất định trong việc khơi nguồn cảm hứng, thì kỷ luật mới là yếu tố quyết định sự thành công bền vững. Kỷ luật giúp chúng ta hành động ngay cả khi không có động lực, hướng đến những lợi ích lâu dài, và thậm chí tự tạo ra động lực thông qua hành động và những cam kết có ý nghĩa. Thay vì chờ đợi ngọn lửa đam mê bùng cháy, hãy xây dựng cho mình một nền tảng kỷ luật vững chắc, đó mới là chìa khóa thực sự để chinh phục mọi mục tiêu và kiến tạo một tương lai tốt đẹp hơn.
+
+
+Sự liên kết giữa vòng tròn âm dương với động lực -> kỷ luật liệu có áp dụng được?
+
+
+### Mối tương quan giữa ý chí và động lực
+Dù đều là những trạng thái của con người và là những thành phần cảm xúc *không thể tách rời*.
+
+
+### Về kỉ luật
+Có rất nhiều người đã đề cập đến việc thay vì dựa vào *ý chí* hay *động lực* để hành động, thì bạn nên sử dụng *kỉ luật*. Trên thực tế và qua trải nghiệm của nhiều người, điều này thường khá đúng (ít nhất là về mặt *chủ quan*)
+
+Khi bắt đầu xem một video học tập rồi động lực thúc đẩy cuộc sống và cả đống các nội dung tương tự trên mạng thì bạn có thực sự tạo ra được điều gì không? Hay chỉ là một thứ cảm xúc thoáng qua và chẳng đọng lại được gì.
+
+How do you keep yourself motivated? fuck motivation. it's a fickle and unreliable little dickfuck and it isn't worth your time. better to cultivate discipline than to rely on motivation. force yourself to do things. force yourself to get up out of bed and practice. force yourself to work. motivation is fleeting and it's easy to rely on because it requires no concentrated effort to get. motivation comes to you, you don't even have to chase after it. discipline is reliable, motivation is fleeting. the question isn't how to keep yourself motivated, it's how to train yourself to work without it.
+
+Discipline is the ultimate motivation tool. Make yourself a set of life rules and don't share them with anyone. Abide by them and look forward to maintaining their principles. Since none of you know me, one that I found which has made me much more motivated is to give those who genuinely need something. If you're hungry and low on cash, I got you.. go pick something out and I'll eat with you. If someone at work is having a stressful day, go home early yo.. I'll cover and nobody will hound you, I'll see to that. If I find a cell phone, I make it my mission to get it back to the owner and say no more than, "no problem." It fucking feels good to make others feels good. And it has gotten me out of bed.
+
+Discipline though, he's a tough fucker who will put you in your place if you let it. Don't fight against discipline. It takes energy away from you doing what you know you should be doing. You know what discipline wants you to do, don't fight against it. Don't think about how you don't want to do it, just do the thing you know you need to do. It sucks at times. It sucks real bad some times. Going to bed and being hungry happened sometimes and that sucked but now I know how to portion food and eat foods that keep me full and it doesn't really happen anymore. It's better.
+
+
+### Nguồn tham khảo
+
+
+- [WHAT YOU NEED TO KNOW ABOUT Willpower - The Psychological Science of Self-Control (APA)](https://www.apa.org/topics/willpower.pdf)
+- Khá nhiều các bài viết linh tinh trên Reddit.
+
+https://vi.wikipedia.org/wiki/Ngh%E1%BB%8B_l%E1%BB%B1c
